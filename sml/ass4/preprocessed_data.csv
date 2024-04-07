@@ -1,0 +1,6 @@
+City,Temperature (C),Humidity (%),Month,Target,Temperature (Binarized),Humidity (Binarized),City (Encoded),Month (Encoded),Target (Binarized)
+New York,20,65,January,Yes,0,1,4,2,0
+Los Angeles,25,70,February,No,0,1,2,1,1
+Chicago,15,60,March,Yes,0,1,1,3,0
+Miami,30,75,April,No,1,1,3,0,1
+Boston,18,55,May,Yes,0,1,0,4,0
